@@ -22,6 +22,7 @@
 		{
 			"animation" : "fairy/battle/creatures/spinner.def",
 			"iconSmall" : "fairy/iconsSmall/creatures/spinner.bmp",
+			"iconLarge" : "fairy/iconsBig/creatures/spinner.png",
 			"timeBetweenFidgets" : 1,
 			"animationTime" :
 			{
@@ -52,7 +53,8 @@
 			},
                      "Healer":
 			{
-				"type" : "HEALER"
+				"type" : "HEALER",
+				"subtype" : "spell.firstAid"
 			}
 		},
 		"stackExperience" :
