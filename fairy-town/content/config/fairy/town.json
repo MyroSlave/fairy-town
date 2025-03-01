@@ -680,7 +680,7 @@
 				"waterElemental" : 5
 			},
 			"guildWindow" : "fairy/town-screen/mage-guild.bmp",
-			"hallBackground" : "TPTHBKTW",
+			"hallBackground" : "fairy/town-screen/hallBackground.bmp",
 			"horde" : [ 2, 0 ],
 			"moatAbility" : "fairyMoat",
 			"icons" : {
